@@ -4,7 +4,7 @@
 
 Projeto construído do evento NLW (Next Level Week) Copa do Mundo 2022
 
-[🏷️Clique aqui para acessar]()
+[🏷️Clique aqui para acessar](https://eduardooliveira3101.github.io/NLW-COPA-CARD/)
 
 ## 🛠️Tecnologias  utilizadas
 
